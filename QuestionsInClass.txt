@@ -1,0 +1,22 @@
+10-11-2022  Array Special Product
+            IP
+            >> 5
+            >> 1 2 3 4 5
+            OP
+            >> 120 60 40 30 24
+
+            Spiral Pattern Leetcode Question
+            link: https://leetcode.com/problems/spiral-matrix/
+
+16-11-2022 Expression evaluation
+            IP 
+            >>5+2
+            >>(10*2)+5
+            OP
+            >>7
+            >>25
+17-11-2022 Doubly Linked List
+            IP
+            >> 10 2 5 12 3 15
+            OP
+            >> 10 2 12 5 3 15
